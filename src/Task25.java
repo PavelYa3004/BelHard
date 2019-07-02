@@ -6,16 +6,18 @@
 рапечатывать каким количеством купюр какого номинала выдается сумма. Создать
 конструктор с тремя параметрами – количеством купюр.*/
 
-//class ATM{
-//    private float int m1,m2,m3;
-//    private int sum;
-//    m1=20;
-//    m2=50;
-//    m3=100;
+//import java.util.Scanner;
 //
-//    public (int Сумма){
-//        this.sum=Сумма;
+//class ATM{
+//    private int k2,k5,k10;//Количество
+//
+//    ATM(int купюры20,int купюры50 ,int купюры100){ //Количество
+//        this.k2=купюры20;
+//        this.k5=купюры50;
+//        this.k10=купюры100;
 //    }
+//
+//
 //
 //
 //
@@ -23,6 +25,7 @@
 //
 //public class Task25 {
 //    public static void main(String[] args) {
-//ATM
+//    ATM atm=new ATM(100,100,100);
+//        Scanner sc=new Scanner();
 //    }
 //}
