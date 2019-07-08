@@ -10,12 +10,13 @@
  thisClassInfo (использовать возможности пакета reflection).
 
  */
-
+package Annotation;
 import java.lang.annotation.*;
+
 import java.util.Objects;
 
 
-public class TaskAnnotation extends MyService{
+class TaskAnnotation extends MyService{
     public static void main(String[] args) {
         MyService my=new MyService();
        Class <?> c=my.getClass();
