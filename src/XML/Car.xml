@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CarCatalog>
+    <car>
+        <brend>Mazda</brend>
+        <color>Blue</color>
+        <places>5</places>
+        <volume>6</volume>
+        <maxSpeed>230</maxSpeed>
+    </car>
+    <car>
+        <brend>BMV</brend>
+        <color>Blue</color>
+        <places>2</places>
+        <volume>9</volume>
+        <maxSpeed>310</maxSpeed>
+    </car>
+</CarCatalog>
